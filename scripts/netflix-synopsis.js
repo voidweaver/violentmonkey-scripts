@@ -1,10 +1,10 @@
 // ==UserScript==
 // @name        Netflix hide episode synopsis
-// @description Black out Netflix episode synopsis. Hover to show.
+// @description Black out Netflix episode synopsis. Hover on it to show the synopsis.
 // @namespace   https://github.com/voidweaver/violentmonkey-scripts
 // @match       https://www.netflix.com/*
 // @grant       GM_getValue
-// @version     1.0
+// @version     1.0.0
 // @author      voidweaver
 // @downloadURL https://git.io/JYIuL
 // @run-at      document-end
